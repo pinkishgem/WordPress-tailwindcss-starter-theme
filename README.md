@@ -16,4 +16,4 @@ This project is licensed under the GPL - see the [LICENSE.md](LICENSE.md) file f
 
 ## Acknowledgments
 
-* Thank you as always to my Friends and Colleagues who have made the developer I am today
+* Thank you as always to my Friends and Colleagues who have made me the developer I am today
