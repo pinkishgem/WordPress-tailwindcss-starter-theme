@@ -1,6 +1,6 @@
 # TailwindCSS for WordPress
 
-This is a standard, fully compliant, WordPress theme, that integrates with the Tailwind CSS framework.  It comes with a tailwinds file using the CLRS.CC palette and most stanard features enabled.
+This is a standard, fully compliant, WordPress theme, that integrates with the Tailwind CSS framework.  It comes with a tailwinds file using the CLRS.CC palette and most standard features enabled.
 
 Built to be hacked and slashed to a developer's delight.
 
