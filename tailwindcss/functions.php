@@ -168,3 +168,8 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 if ( class_exists( 'WooCommerce' ) ) {
 	require get_template_directory() . '/inc/woocommerce.php';
 }
+
+/**
+ * Add function to add classes to in post elements
+ */
+require get_template_directory() . '/inc/add-classes.php';
