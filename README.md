@@ -4,6 +4,10 @@ This is a standard, fully compliant, WordPress theme, that integrates with the T
 
 Built to be hacked and slashed to a developer's delight.
 
+## Last Update Oct. 27 2021
+
+Added the function inc/add-classes.php.  It will grab elements in the content of a WordPress post or page and add designated classes to it.  Built in functions are to fix image and figure displays.  Also has a feature to make tables display with styles.
+
 ## Built With
 
 * [Underscores for WordPress](http://www.underscores.me) - Shredded an Underscores build to integrate it with Tailwinds and ensure it's ready to go from the ground up
@@ -13,7 +17,3 @@ Built to be hacked and slashed to a developer's delight.
 ## License
 
 This project is licensed under the GPL - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Thank you as always to my Friends and Colleagues who have made me the developer I am today
