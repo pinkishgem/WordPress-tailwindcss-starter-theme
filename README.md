@@ -6,7 +6,10 @@ Built to be hacked and slashed to a developer's delight.
 
 ## Last Update Oct. 27 2021
 
-Added the function inc/add-classes.php.  It will grab elements in the content of a WordPress post or page and add designated classes to it.  Built in functions are to fix image and figure displays.  Also has a feature to make tables display with styles.
+* Added the function inc/add-classes.php.  
+It will grab elements in the content of a WordPress post or page and add designated classes to it.  Built in functions are to fix image and figure displays.  
+Also has a feature to make tables display with styles.
+* Added a jpg of all the included colours for easy reference
 
 ## Built With
 
